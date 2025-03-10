@@ -51,8 +51,11 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 5. Simpan file dan buka http://localhost:3000/products di browser. Anda akan melihat daftar produk yang diambil dari API route.
 ![alt text](img/HP5.png)
 
-## **5. Menggunakan API Routes**
-1. Buka file pages/index.tsx dan tambahkan modif dengan kode berikut untuk membuat link ke halaman lain: 
-2. Buat file baru di pages dengan nama about.js untuk halaman "Tentang Kami": 
-3. Simpan file dan buka http://localhost:3000 di browser. Klik link "Tentang Kami" untuk navigasi 
-ke halaman tentang. 
+## **6. Menggunakan Link Component**
+1. Buka file pages/index.tsx dan tambahkan modif dengan kode berikut untuk membuat link ke halaman lain:
+![alt text](img/P6L1.png)
+2. Buat file baru di pages dengan nama about.js untuk halaman "Tentang Kami":
+![alt text](img/P6L2.png)
+3. Simpan file dan buka http://localhost:3000 di browser. Klik link "Tentang Kami" untuk navigasi ke halaman tentang.
+![alt text](img/HP6(1).png)
+![alt text](img/HP6(2).png)
