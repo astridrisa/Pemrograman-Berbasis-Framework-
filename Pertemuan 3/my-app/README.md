@@ -32,3 +32,11 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 ![alt text](img/P3L2.png)
 3. Simpan file dan buka http://localhost:3000/blog di browser. Anda akan melihat daftar post yang diambil dari API eksternal.
 ![alt text](img/HP3.png)
+
+## **4. Menggunakan Dynamic Routes**
+1. Buat direktori baru di pages dengan nama blog. 
+2. Buat file di dalam direktori blog dengan nama [slug].js 
+3. Tambahkan kode berikut untuk membuat halaman dinamis berdasarkan slug:
+![alt text](img/P4L3.png)
+4. Simpan file dan buka http://localhost:3000/blog/contoh-post di browser. Anda akan melihat halaman yang menampilkan slug dari URL.
+![alt text](img/HP4.png)
