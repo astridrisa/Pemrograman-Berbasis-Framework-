@@ -25,3 +25,10 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 ![alt text](img/P2L2.png)
 3. Simpan file dan lihat perubahan di browser. Anda akan melihat halaman utama dengan teks "Selamat Datang di Website Saya!". 
 ![alt text](img/HP2.png)
+
+## **3. Menggunakan Static Site Generation (SSG)**
+1. Buat file baru di direktori pages dengan nama blog.js. 
+2. Tambahkan kode berikut untuk membuat halaman blog dengan SSG:
+![alt text](img/P3L2.png)
+3. Simpan file dan buka http://localhost:3000/blog di browser. Anda akan melihat daftar post yang diambil dari API eksternal.
+![alt text](img/HP3.png)
