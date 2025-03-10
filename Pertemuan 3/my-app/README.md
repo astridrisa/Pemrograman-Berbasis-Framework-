@@ -40,3 +40,19 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 ![alt text](img/P4L3.png)
 4. Simpan file dan buka http://localhost:3000/blog/contoh-post di browser. Anda akan melihat halaman yang menampilkan slug dari URL.
 ![alt text](img/HP4.png)
+
+## **5. Menggunakan API Routes**
+1. Pastikan terdapat direktori di pages dengan nama api. 
+2. Buat file di dalam direktori api dengan nama products.js. 
+3. Tambahkan kode berikut untuk membuat API route yang mengembalikan daftar produk:
+![alt text](img/P5L3.png)
+4. Buat file baru di pages dengan nama products.js untuk menampilkan daftar produk:
+![alt text](img/P5L4.png)
+5. Simpan file dan buka http://localhost:3000/products di browser. Anda akan melihat daftar produk yang diambil dari API route.
+![alt text](img/HP5.png)
+
+## **5. Menggunakan API Routes**
+1. Buka file pages/index.tsx dan tambahkan modif dengan kode berikut untuk membuat link ke halaman lain: 
+2. Buat file baru di pages dengan nama about.js untuk halaman "Tentang Kami": 
+3. Simpan file dan buka http://localhost:3000 di browser. Klik link "Tentang Kami" untuk navigasi 
+ke halaman tentang. 
