@@ -158,7 +158,7 @@ Lakukan hal yang sama untuk halaman projects/page.tsx dan essays/page.tsx.
 ![alt text](img/HP3.png)
 
 
-## **3. Membuat Layout dan Navigasi**
+## **4. Membuat Halaman Proyek dengan Grid Responsif**
 Halaman proyek akan menampilkan daftar proyek dalam bentuk grid yang responsif.
 
 ### **Langkah-langkah**
