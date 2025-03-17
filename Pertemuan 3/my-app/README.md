@@ -59,3 +59,40 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 3. Simpan file dan buka http://localhost:3000 di browser. Klik link "Tentang Kami" untuk navigasi ke halaman tentang.
 ![alt text](img/HP6(1).png)
 ![alt text](img/HP6(2).png)
+
+
+## **Tugas** 
+1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users. 
+
+    **Langkah-langkah:**
+
+- Buat direktori baru di pages dengan nama users. 
+- Buat file di dalam direktori users dengan nama index.js
+- Tambahkan kode berikut:
+    ![alt text](img/T1L2.png)
+- Simpan file dan buka http://localhost:3000/users di browser.
+    ![alt text](img/HT1.png)
+
+
+2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID. 
+
+    **Langkah-langkah:**
+
+- Buat file di dalam direktori users dengan nama [id].js
+- Tambahkan kode berikut:
+    ![alt text](img/T2L2.png)
+- Simpan file dan buka http://localhost:3000/users/1 → Detail pengguna dengan ID 1 di browser.
+    ![alt text](img/HT2.png)
+
+3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, 
+OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
+
+    **Langkah-langkah:**
+
+- Buat file di dalam direktori api dengan nama weather.js
+- Tambahkan kode berikut:
+    ![alt text](img/T3L2.png)
+- Buat file di dalam direktori page dengan nama weather.js
+- Tambahkan kode berikut:
+    ![alt text](img/T3L4.png)
+- Simpan file dan buka http://localhost:3000/weather
