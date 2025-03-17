@@ -151,9 +151,7 @@ Layout digunakan untuk menyediakan struktur yang konsisten di seluruh halaman, s
     ![alt text](img/P3L6.png)
 
 Lakukan hal yang sama untuk halaman projects/page.tsx dan essays/page.tsx. 
-
     ![alt text](img/P3L6(2).png)
-
     ![alt text](img/P3L6(3).png)
 
 ### **HASIL**
@@ -202,7 +200,7 @@ Eksplorasi Tailwindcss, kemudian.
     3. Modifikasi komponen project sebagai berikut:
 
         ![alt text](img/L3T1.png)
-        
+
     ### **HASIL**
     ![alt text](img/HT1.png)
 
