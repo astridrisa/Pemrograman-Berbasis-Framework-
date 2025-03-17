@@ -69,9 +69,12 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 - Buat direktori baru di pages dengan nama users. 
 - Buat file di dalam direktori users dengan nama index.js
 - Tambahkan kode berikut:
-![alt text](img/T1L2.png)
+
+    ![alt text](img/T1L2.png)
+
 - Simpan file dan buka http://localhost:3000/users di browser.
-![alt text](img/HT1.png)
+
+    ![alt text](img/HT1.png)
 
 
 2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID. 
@@ -80,9 +83,12 @@ Aplikasi akan terbuka di browser pada alamat http://localhost:3000.
 
 - Buat file di dalam direktori users dengan nama [id].js
 - Tambahkan kode berikut:
-![alt text](img/T2L2.png)
+
+    ![alt text](img/T2L2.png)
+
 - Simpan file dan buka http://localhost:3000/users/1 → Detail pengguna dengan ID 1 di browser.
-![alt text](img/HT2.png)
+
+    ![alt text](img/HT2.png)
 
 3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, 
 OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
@@ -91,8 +97,12 @@ OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.
 
 - Buat file di dalam direktori api dengan nama weather.js
 - Tambahkan kode berikut:
-![alt text](img/T3L2.png)
+
+    ![alt text](img/T3L2.png)
+
 - Buat file di dalam direktori page dengan nama weather.js
 - Tambahkan kode berikut:
-![alt text](img/T3L4.png)
+
+    ![alt text](img/T3L4.png)
+
 - Simpan file dan buka http://localhost:3000/weather
