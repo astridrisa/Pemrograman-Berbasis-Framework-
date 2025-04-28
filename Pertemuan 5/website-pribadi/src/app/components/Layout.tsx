@@ -7,14 +7,14 @@ type LayoutProps = {
   pageId?: string; 
 };
 
-export default function Layout({ children, pageId }: LayoutProps) {
+export default function Layout({ children }: LayoutProps) {
   return (
     <>
       <Head>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <main id={pageId}>{children}</main> 
+      <main>{children}</main> 
       <Footer />
     </>
   );
